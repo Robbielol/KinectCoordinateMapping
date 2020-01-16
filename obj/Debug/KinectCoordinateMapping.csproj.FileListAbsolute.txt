@@ -1,0 +1,76 @@
+C:\Users\kicku\Downloads\kinect-2-coordinate-mapping-master\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+C:\Users\kicku\Downloads\kinect-2-coordinate-mapping-master\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+C:\Users\kicku\Downloads\kinect-2-coordinate-mapping-master\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+C:\Users\kicku\Downloads\kinect-2-coordinate-mapping-master\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.dll
+C:\Users\kicku\Downloads\kinect-2-coordinate-mapping-master\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.xml
+C:\Users\kicku\Downloads\kinect-2-coordinate-mapping-master\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csprojAssemblyReference.cache
+C:\Users\kicku\Downloads\kinect-2-coordinate-mapping-master\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.baml
+C:\Users\kicku\Downloads\kinect-2-coordinate-mapping-master\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\MainWindow.g.cs
+C:\Users\kicku\Downloads\kinect-2-coordinate-mapping-master\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\App.g.cs
+C:\Users\kicku\Downloads\kinect-2-coordinate-mapping-master\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+C:\Users\kicku\Downloads\kinect-2-coordinate-mapping-master\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+C:\Users\kicku\Downloads\kinect-2-coordinate-mapping-master\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+C:\Users\kicku\Downloads\kinect-2-coordinate-mapping-master\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.GenerateResource.cache
+C:\Users\kicku\Downloads\kinect-2-coordinate-mapping-master\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.CoreCompileInputs.cache
+C:\Users\kicku\Downloads\kinect-2-coordinate-mapping-master\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.CopyComplete
+C:\Users\kicku\Downloads\kinect-2-coordinate-mapping-master\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+C:\Users\kicku\Downloads\kinect-2-coordinate-mapping-master\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csprojAssemblyReference.cache
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.GenerateResource.cache
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.CoreCompileInputs.cache
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\LightBuzz.Vitruvius.dll
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.dll
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\LightBuzz.Vitruvius.xml
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.xml
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.CopyComplete
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Google.Protobuf.dll
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\MySql.Data.dll
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Google.Protobuf.xml
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\MySql.Data.xml
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\UserInterfaces\MainWindow.baml
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\UserInterfaces\MainWindow.g.cs
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\UserInterfaces\App.g.cs
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.UserInterfaces.AddExerciseForm.resources
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.UserInterfaces.MenuWindow.resources
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.UserInterfaces.PerformExerciseForm.resources
+C:\Users\kicku\OneDrive\Desktop\FYP\kinect-2-coordinate-mapping-master\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Utilities\Extensions.cs
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Utilities\Extensions.cs
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe.config
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.exe
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\KinectCoordinateMapping.pdb
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Google.Protobuf.dll
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\LightBuzz.Vitruvius.dll
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.dll
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\MySql.Data.dll
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Google.Protobuf.xml
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\LightBuzz.Vitruvius.xml
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.xml
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\MySql.Data.xml
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csprojAssemblyReference.cache
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\UserInterfaces\MainWindow.baml
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\UserInterfaces\MainWindow.g.cs
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\UserInterfaces\App.g.cs
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping_MarkupCompile.cache
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.g.resources
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.UserInterfaces.AddExerciseForm.resources
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.UserInterfaces.MenuWindow.resources
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.Properties.Resources.resources
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.UserInterfaces.PerformExerciseForm.resources
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.GenerateResource.cache
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.CoreCompileInputs.cache
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.csproj.CopyComplete
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.exe
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.pdb
+C:\Users\renee\Desktop\Robs Shit\KinectCoordinateMapping\KinectCoordinateMapping\KinectCoordinateMapping\obj\Debug\KinectCoordinateMapping.UserInterfaces.ExitWindow.resources
